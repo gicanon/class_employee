@@ -1,6 +1,6 @@
 # class_employee
 
-Python program with employee-related functionality
+Python object-oriented program with employee-related functionality
 
 ## Description
 
