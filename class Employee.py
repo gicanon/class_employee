@@ -62,9 +62,6 @@ class Employee(User):
     
 class Manager(Employee):
 
-    def __init__(self, id, name, department, phone, quali):
-        super().__init__(id, name, department, phone, quali)
-
     def viewReports():
         pass
 
